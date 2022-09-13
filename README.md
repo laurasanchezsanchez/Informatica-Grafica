@@ -32,11 +32,11 @@ Así, es necesario crear modelos de objetos, de la cámara, de la interacción d
 ###### Guía de teclas a utilizar:
 - Del 1-7 obtendremos diferentes figuras.
 - La figura 7 es la diseñada personalmente. Seleccionándola, podemos:
-        - Tecla A: Activar/Desactivar la animación.
-        - Q/W: Aumentar/disminuir la largura del gancho
-        - E/R: aumentamos o disminuimos su tasa de modificacion
-        - S/D: Subir/bajar la altura del brazo
-        - T/Y: aumentamos o disminuimos su tasa de modificacion
-        - Z/X: Girar a la izquierda/derecha el brazo
-        - U/I: aumentamos o disminuimos su tasa de modificacion
-        - Extra especial: G/H: Subir/bajar el gancho
+    - Tecla A: Activar/Desactivar la animación.
+    - Q/W: Aumentar/disminuir la largura del gancho
+    - E/R: aumentamos o disminuimos su tasa de modificacion
+    - S/D: Subir/bajar la altura del brazo
+    - T/Y: aumentamos o disminuimos su tasa de modificacion
+    - Z/X: Girar a la izquierda/derecha el brazo
+    - U/I: aumentamos o disminuimos su tasa de modificacion
+    - Extra especial: G/H: Subir/bajar el gancho
